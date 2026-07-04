@@ -20,5 +20,5 @@
 
 - 🧙‍♂️ Virtual Game Master - AI-powered text RPG *(discontinued, read the [postmortem](https://m0no.xyz/posts/001_vgm_postmortem.html))*
 - 🐛 [Pillbug](https://github.com/m0nochr0me/pillbug) - Async AI Agent Framework
-- 🗃️ [Arca Memory Core](https://github.com/m0nochr0me/arca-mcp) - Knowledge Graph Memory MCP Server for AI Agents
-
+- 🐚 [Arca Memory Core](https://github.com/m0nochr0me/arca-mcp) - Knowledge Graph Memory MCP Server for AI Agents
+- 🪗 [Wake Word Detector I](https://github.com/m0nochr0me/wwd_i) - From-scratch, always-on wake-word detector
