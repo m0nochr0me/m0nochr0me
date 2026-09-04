@@ -22,3 +22,4 @@
 - 🐛 [Pillbug](https://github.com/m0nochr0me/pillbug) - Async AI Agent Framework
 - 🐚 [Arca Memory Core](https://github.com/m0nochr0me/arca-mcp) - Knowledge Graph Memory MCP Server for AI Agents
 - 🪗 [Wake Word Detector I](https://github.com/m0nochr0me/wwd_i) - From-scratch, always-on wake-word detector
+- 🧊 [Blix](https://github.com/m0nochr0me/blix) - Pixel-art editing tools for Blender
